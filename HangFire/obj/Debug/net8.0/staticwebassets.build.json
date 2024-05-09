@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "yZJzswdb7NVvxHqvTsjK8aTQ0e6S2XCSBuVXK3N4vUs=",
+  "Source": "HangFire.API",
+  "BasePath": "_content/HangFire.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
